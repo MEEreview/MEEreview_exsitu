@@ -1,0 +1,17 @@
+Package: MEEreview_exsitu
+Type: Package
+Title: Ex-Situ conservation gap analysis
+Version: 1.0-0
+Date: 2023-10-28
+Imports: ape, terra
+Author: A. Uthor
+Maintainer: A. Uthor <author.package@gmail.com>
+Description: Ex-Situ conservation gap analysis framework
+Encoding: UTF-8
+License: GPL (>=3)
+Depends: R (>= 4.0.0)
+BugReports: https://github.com/MEEreview/MEEreview_exsitu/issues
+LazyLoad: yes
+Authors@R: c(
+	person("A.", "Uthor", email = "author.package@gmail.com", role = c("cre", "aut")),
+    person("A.", "Uthor", role = c("aut")))
